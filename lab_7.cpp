@@ -236,7 +236,7 @@ int main(){
 		t1.insert(k);	
 	}
 	t1.print2D();
-	cout<<"Lets search whether an eement exists. Type the element ";
+	cout<<"Lets search whether an element exists. Type the element ";
 	cin>>x;cout<<endl;
 	t1.search(x);
 	cout<<"find the min of :";
